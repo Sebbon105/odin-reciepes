@@ -1,0 +1,43 @@
+body{
+    background-color: moccasin;
+}
+
+h2{
+    color: red;
+}
+
+.index-h1{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.index-link{
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 30px;
+    color: grey;
+    justify-content: center; 
+}
+
+.ul{
+    text-align: center; 
+}
+
+.link{
+    text-decoration: none;
+    color: grey;
+}
+
+.link:hover{
+    color: darkblue;
+}
+
+.img{
+    max-width: 300px;
+    height: auto;
+    max-height: 300px;
+    width: auto;
+}
+
